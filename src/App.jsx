@@ -8,9 +8,9 @@ const App = () => {
   return (
     <>
      <h1>App.jsx</h1> 
-     {/* <AxiosGetREquest/> */}
-     {/* <AxiosPostRequest/> */}
-     {/* <AxiosPutRequest/> */}
+     <AxiosGetREquest/> 
+     <AxiosPostRequest/>
+      <AxiosPutRequest/>
      <AxiosDeleteData/>
     </>
   )
